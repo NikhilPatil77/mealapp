@@ -1,5 +1,6 @@
 <h1> Coding-Ninjas-Meal-App</h1>
 <h4><i>Creating the meal app to store & search meals<i></h4>
+Live Demo here : https://nikhilpatil77.github.io/mealapp/
   <h3><b>HOME PAGE</b></h3>
   <img src="https://github.com/NikhilPatil77/mealapp/blob/main/Assets/Screenshot%202023-06-03%20115119.jpg">
   <p>Home page includes the app logo, search bar, menu bar and the section to display searched meals.</p>
