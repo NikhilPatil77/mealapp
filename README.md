@@ -11,7 +11,7 @@
       <li>On clicking on the more details button, it opens a new page with more information about that meal</li>
   </ul>
    <h3><b>MORE DETAILS PAGE</b></h3>
-  <img src="https://github.com/NikhilPatil77/mealapp/blob/main/Assets/Screenshot%202023-06-03%20115226.jpg"> 
+  <img src="https://github.com/NikhilPatil77/mealapp/blob/main/Assets/Screenshot%202023-06-03%20115555.jpg"> 
   <ul>
       <li>Shows the information about the meal like its name, photo, instructions and the video link button</li>
   </ul>
